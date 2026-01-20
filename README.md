@@ -13,11 +13,9 @@
 
 ## 🔗 Links
 
-- 🚀 **Deploy (frontend):** [login-crud-app-seven.vercel.app](https://login-crud-app-seven.vercel.app)
-- 🚀 **Deploy (API):** [login-crud-api.onrender.com](https://login-crud-api.onrender.com)
-- 🎥 **Vídeo demo:** [link aqui](#)
+- 🚀 **Deploy:** [login-crud-app-seven.vercel.app](https://login-crud-app-seven.vercel.app)
 
-> ⚠️ A API está hospedada no plano gratuito do Render — a instância "dorme" após um tempo sem uso. A primeira requisição após a inatividade pode levar até ~50 segundos para responder.
+> ⚠️ O backend está hospedado no plano gratuito do Render — a instância "dorme" após um tempo sem uso. A primeira requisição após a inatividade pode levar até ~50 segundos para responder.
 
 ## 🧠 Sobre o projeto
 
