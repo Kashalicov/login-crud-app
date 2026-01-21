@@ -7,9 +7,7 @@
 ![react](https://img.shields.io/badge/react-18-61dafb)
 ![license](https://img.shields.io/badge/license-MIT-blue)
 
-## 🖼️ Capa
-
-![capa do projeto](./docs/cover.png)
+> 🌱 Projeto de aprendizado, feito enquanto eu estudava autenticação JWT e desenvolvimento full stack com Node.js e React.
 
 ## 🔗 Links
 
@@ -30,12 +28,6 @@ Este projeto implementa o fluxo mais comum de qualquer aplicação web real: cad
 - Isolamento de dados: cada usuário só acessa suas próprias tarefas (validado no backend, não só escondido no frontend)
 - Rotas de tarefas protegidas por middleware de autenticação
 - Testes de integração no backend cobrindo autenticação e CRUD (incluindo tentativa de acessar tarefa de outro usuário)
-
-## 🖥️ Prints
-
-| Login | Cadastro | Lista de tarefas |
-|---|---|---|
-| ![login](./docs/screenshot1.png) | ![cadastro](./docs/screenshot2.png) | ![tarefas](./docs/screenshot3.png) |
 
 ## 🛠️ Tecnologias
 
