@@ -5,7 +5,7 @@
 ![status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen)
 ![node](https://img.shields.io/badge/node.js-18%2B-green)
 ![react](https://img.shields.io/badge/react-18-61dafb)
-![license](https://img.shields.io/badge/license-MIT-blue)
+[![license](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 > 🌱 Projeto de aprendizado, feito enquanto eu estudava autenticação JWT e desenvolvimento full stack com Node.js e React.
 
