@@ -29,6 +29,12 @@ Este projeto implementa o fluxo mais comum de qualquer aplicação web real: cad
 - Rotas de tarefas protegidas por middleware de autenticação
 - Testes de integração no backend cobrindo autenticação e CRUD (incluindo tentativa de acessar tarefa de outro usuário)
 
+## 🖥️ Prints
+
+| Login | Cadastro |
+|---|---|
+| ![login](./docs/login.png) | ![cadastro](./docs/registrar.png) |
+
 ## 🛠️ Tecnologias
 
 **Backend**
