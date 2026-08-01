@@ -12,8 +12,9 @@
 ## 🔗 Links
 
 - 🚀 **Deploy:** [login-crud-app-seven.vercel.app](https://login-crud-app-seven.vercel.app)
+- 🔑 **Conta de demonstração:** `demo@exemplo.com` / `demo1234` (ou crie a sua pelo cadastro)
 
-> ⚠️ O backend está hospedado no plano gratuito do Render — a instância "dorme" após um tempo sem uso. A primeira requisição após a inatividade pode levar até ~50 segundos para responder.
+> ⚠️ O backend está hospedado no plano gratuito do Render. Um workflow no GitHub Actions faz um ping a cada 10 min para manter a instância acordada, mas a primeira requisição ainda pode ocasionalmente levar alguns segundos a mais para responder.
 
 ## 🧠 Sobre o projeto
 

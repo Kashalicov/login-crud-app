@@ -1,0 +1,13 @@
+name: Keep Alive
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Pingar a API para evitar que a instancia gratuita durma
+        run: curl -sf --max-time 30 https://login-crud-api.onrender.com/api/tarefas || true
