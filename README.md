@@ -1,6 +1,6 @@
 # 📌 Sistema com Login + CRUD de Tarefas
 
-> Aplicação full stack com autenticação JWT e CRUD de tarefas por usuário. Backend em Node.js/Express + SQLite, frontend em React.
+> Aplicação full stack com autenticação JWT e CRUD de tarefas por usuário. Backend em Node.js/Express + PostgreSQL (SQLite no desenvolvimento), frontend em React.
 
 ![status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen)
 ![node](https://img.shields.io/badge/node.js-18%2B-green)
@@ -40,7 +40,7 @@ Este projeto implementa o fluxo mais comum de qualquer aplicação web real: cad
 
 **Backend**
 - Node.js + Express
-- better-sqlite3 (banco de dados)
+- PostgreSQL em produção (`pg`) e SQLite no desenvolvimento/testes (better-sqlite3)
 - bcryptjs (hash de senha)
 - jsonwebtoken (autenticação JWT)
 - Jest + Supertest (testes de integração)
@@ -116,7 +116,6 @@ Esse projeto me fez entender na prática por que autenticação "de verdade" nã
 - Refresh token e logout que invalida o token no servidor
 - Paginação e filtros na listagem de tarefas
 - Recuperação de senha por e-mail
-- Migrar de SQLite para PostgreSQL em produção
 
 ## 👤 Autor
 
