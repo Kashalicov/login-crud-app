@@ -14,7 +14,7 @@
 - 🚀 **Deploy:** [login-crud-app-seven.vercel.app](https://login-crud-app-seven.vercel.app)
 - 🔑 **Conta de demonstração:** `demo@exemplo.com` / `demo1234` (ou crie a sua pelo cadastro)
 
-> Frontend na Vercel e API na Shard Cloud ([login-crud-api.shardweb.app](https://login-crud-api.shardweb.app/api/health)), sempre ativa (sem cold start). A conta demo é recriada automaticamente se o banco for zerado.
+> ⚠️ Frontend na Vercel e API no plano gratuito do Render. Um workflow no GitHub Actions faz um ping a cada 10 min para manter a instância acordada, mas a primeira requisição ainda pode levar alguns segundos. A conta demo é recriada automaticamente se o banco for zerado.
 
 ## 🧠 Sobre o projeto
 
